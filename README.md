@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @51ngh84
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... javascript
+- 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... Everthing!
 - 📫 How to reach me ... 
 
